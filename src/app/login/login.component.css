@@ -1,0 +1,13 @@
+.login {
+    margin-top: 5rem;
+    margin-left: 15rem;
+    max-width: 40rem;
+    height: 22rem;
+    border: 1px solid gray;
+    background-color: lightgray;
+  }
+
+  .form-group{
+      margin-left: 1rem;
+      margin-right: 1rem;;
+  }
